@@ -19,7 +19,7 @@ export default function Page() {
             {/* <a href=" " className="text-blue-500">
               login with email = user@nextmail.com and password = 123456 to explore the project.
             </a> */}
-            login with email = user@nextmail.com and password = 123456 to explore the project.
+            <span className='text-black opacity-50'>login with email = user@nextmail.com and password = 123456 to explore the project.</span>
             , brought to you by Vercel.
           </p>
           <Link
